@@ -1,0 +1,8 @@
+prefix=/home/damla/catkin_ws/src/data_prep/build/devel
+
+Name: data_prep
+Description: Description of data_prep
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

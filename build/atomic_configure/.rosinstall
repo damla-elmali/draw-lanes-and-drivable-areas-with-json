@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/damla/catkin_ws/src/data_prep/build/devel/setup.sh
